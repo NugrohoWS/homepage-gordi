@@ -114,6 +114,7 @@ section h3{
   font-size: 18px;
   line-height: 21px;
   letter-spacing: 0;
+  text-align: left;
 }
 #faq .accordion-thumb::before {
     content: '';
